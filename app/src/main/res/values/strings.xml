@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NASA Image of the Day</string>
+    <string name="refresh">Refresh</string>
+    <string name="enterName">Enter Name</string>
+    <string name="typeHere">Type Here</string>
+    <string name="enterBody">Enter Body</string>
+    <string name="go">Go</string>
+    <string name="openInBrowser">Open in Browser</string>
+    <string name="save">Save</string>
+    <string name="date">Date</string>
+    <string name="title">Title</string>
+    <string name="explanation">Explanation</string>
+    <string name="help">Help</string>
+</resources>
+
+
